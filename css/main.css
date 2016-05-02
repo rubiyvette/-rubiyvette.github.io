@@ -22,6 +22,11 @@ a {
   color: #333;
 }
 
+h1, h2, h3 {
+  font-family: Raleway;
+  text-transform: uppercase;
+}
+
 p {
   color: #333;
 }
