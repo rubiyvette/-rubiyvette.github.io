@@ -1,12 +1,12 @@
 body {
-  background: grey;
+  background: white;
   font-family: Roboto;
 }
 
 nav ul li a, 
 footer ul li a, 
 a {
-  color: #ffffff;
+  color: #333;
 }
 
 p {
