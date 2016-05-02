@@ -4,6 +4,12 @@ body {
   color: #333;
 }
 
+nav ul li, 
+footer ul li {
+  display: inline-block;
+  list-style: none;
+}
+
 nav ul li a, 
 footer ul li a, 
 a {
