@@ -2,6 +2,10 @@ body {
   background: grey;
 }
 
+nav ul li a {
+  color: #ffffff;
+}
+
 p {
   color: white;
 }
