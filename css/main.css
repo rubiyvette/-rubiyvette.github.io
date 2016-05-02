@@ -4,6 +4,11 @@ body {
   color: #333;
 }
 
+nav ul, 
+footer ul {
+  padding: 0;
+}
+
 nav ul li, 
 footer ul li {
   display: inline-block;
